@@ -1,4 +1,4 @@
-# Project-Based-Intern-Data-Science-Virtual-Internship-Experience-
+# Project Based Intern Data Science Virtual Internship Experience
 
 Tugas akhir saat saya melakukan virtual internship ID/X pada laman rakamin
 dimana saya membuat end-to-end solution menggunakan machine learning (logistic regression) untuk mendeteksi apakah ajuan pinjaman lebih baik di accept atau di refuse
